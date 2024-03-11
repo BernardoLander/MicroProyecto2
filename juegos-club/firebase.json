@@ -1,5 +1,9 @@
 {
+  "database": {
+    "rules": "database.rules.json"
+  },
   "hosting": {
+    "site": "microproyecto2-84f32",
     "public": "public",
     "ignore": [
       "firebase.json",
